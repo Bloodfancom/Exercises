@@ -2,7 +2,7 @@
 1) Pending
 # MacOS
 .DS_Store
-
+*.zip
 # Visual Studio
 Win32/*
 .vs
